@@ -1,5 +1,5 @@
 ---
-name: David Tulman 
+name: David Tulman, Ph.D. 
 position: Chief Clinical Officer 
 image_path: /images/david.jpg 
 linkedin: david-tulman-2aa38112a
