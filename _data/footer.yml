@@ -1,0 +1,26 @@
+- links:
+  - name: Technology 
+    link: /pricing/
+  - name: News 
+    link: /blog/
+  - name: About 
+    link: /about/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Facebook
+    link: https://www.facebook.com/instapathbio/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/instapathbio?lang=en
+    social_icon: Twitter
+    new_window: true
+  - name: Linkedin 
+    link: https://www.linkedin.com/company/instapath-bioptics-llc/ 
+    social_icon: LinkedIn 
+    new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false
