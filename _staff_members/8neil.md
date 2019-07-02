@@ -1,5 +1,5 @@
 ---
-name: Neil Ninan, M.D.
+name: Neil Ninan, M.D., M.B.A.
 position: Advisor
 image_path: /images/neil.jpg
 linkedin: neil-ninan-md-mba-1929aa44
