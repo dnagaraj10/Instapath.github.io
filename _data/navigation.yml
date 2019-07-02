@@ -5,7 +5,7 @@
 - name: Our Technology
   link: /technology/
   new_window: false
-  highlight: true
+  highlight: false
 - name: The Team 
   link: /team/
   new_window: false
