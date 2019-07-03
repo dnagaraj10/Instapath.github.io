@@ -3,11 +3,11 @@
   new_window: false 
   highlight: false
 - name: Our Technology
-  link: /pricing/
+  link: /technology/
   new_window: false
   highlight: false
 - name: The Team 
-  link: /about/
+  link: /team/
   new_window: false
   highlight: false
 - name: News 
