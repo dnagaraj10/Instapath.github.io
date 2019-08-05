@@ -1,1 +1,1 @@
-# Instapath Webiste
+# Instapath Website
